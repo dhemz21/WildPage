@@ -7,16 +7,12 @@ body {
     margin-bottom: 500px;
 }
 
-@media (max-width: 768px) {
-    #donate {
-        font-size: 14px;
-    }
-
-}
-@media (max-width: 576px) {
+@media (max-width: 472px) {
     #donate i{
-        display: none;
+      display: none;
+        
     }
 
 }
+
 
