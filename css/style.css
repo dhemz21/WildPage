@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)), url(../img/elephant-1822636.jpg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 500px;
+}
+
+@media (max-width: 768px) {
+    #donate {
+        font-size: 10px;
+    }
+
+}
+@media (max-width: 576px) {
+    #donate i{
+        display: none;
+    }
+
+}
+
