@@ -1,10 +1,13 @@
-body {
+body{
+    background: #c5c5c5;
+}
+
+header{
     background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)), url(../img/elephant-1822636.jpg);
     height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    margin-bottom: 500px;
 }
 
 @media (max-width: 472px) {
